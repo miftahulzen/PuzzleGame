@@ -1,6 +1,7 @@
 # PuzzleGame
 
-Game puzzle dengan mode 3x3, 4x4, dan 5x5. 
+Game puzzle berbasis Mobile dan Web dengan mode 3x3, 4x4, dan 5x5. 
+![Untitled-2](https://user-images.githubusercontent.com/62581010/88877358-75deb380-d24f-11ea-86e3-27acb4ca5e19.png)
 
 ## Build with
 
